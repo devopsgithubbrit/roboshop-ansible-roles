@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.chintu.cloud
+REDIS_HOST: redis.chintu.cloud
+MYSQL_HOST: mysql.chintu.cloud
+RABBITMQ_HOST: rabbitmq.chintu.cloud
+CATALOGUE_HOST: catalogue.chintu.cloud
+USER_HOST: user.chintu.cloud
+CART_HOST: cart.chintu.cloud
+SHIPPING_HOST: shipping.chintu.cloud
+PAYMENT_HOST: payment.chintu.cloud
+DISPATCH_HOST: dispatch.chintu.cloud
